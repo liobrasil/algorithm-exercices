@@ -1,2 +1,2 @@
 JS files
-Algorithm for solvinf different mathematical problems
+Algorithm for solving different mathematical problems
