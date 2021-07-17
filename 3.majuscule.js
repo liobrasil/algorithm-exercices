@@ -1,3 +1,4 @@
+//function that returns a string with the letters alternatively in upper and lowercase
 majuscule = (str) => {
   let len = str.length;
   let newStr = "";
