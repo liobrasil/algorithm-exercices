@@ -1,3 +1,4 @@
+//function that sorts an array
 const tri = (array) => {
   let len = array.length;
   let newArray = [];
