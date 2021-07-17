@@ -1,2 +1,2 @@
-JS files
-Algorithm for solving different mathematical problems
+## Javascript algorithms
+JS Algorithms for solving different problems.  Just copy try them and see what they do !
