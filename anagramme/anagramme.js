@@ -1,4 +1,5 @@
-// SYNC MODE not working
+// anagramme function returns all the anagrams picked in mots.txt by searching them in lexique.txt
+// using SYNC MODE for reading a text file
 const fs = require("fs");
 const dicoall = fs.readFileSync("./lexique.txt", "utf-8");
 const dico = dicoall.split("\n");
@@ -6,7 +7,7 @@ const dico = dicoall.split("\n");
 const motsall = fs.readFileSync("./mots.txt", "utf-8");
 const mots = motsall.split("\n");
 
-// // ASYNC MODE
+// // using ASYNC MODE for reading a text file
 // const fs = require("fs");
 // fs.readFile("./lexique.txt", (text) => {
 //   textByLine = text.split("\n");
