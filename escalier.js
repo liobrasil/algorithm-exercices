@@ -1,3 +1,4 @@
+//function that returns a stair of n steps
 escalier = (step) => {
   let str = [];
 
