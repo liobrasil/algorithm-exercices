@@ -1,4 +1,6 @@
-//SYNC MODE on
+//sudokuFunc solves a sudoku called const sudoku (from sudoku.txt) by solvinglines equal to 9 horizontally and vertically
+
+//using SYNC MODE to import a txt file in an array
 const fs = require("fs");
 const sudokuall = fs.readFileSync("./sudoku.txt", "utf-8");
 const sudoku = sudokuall.split("\n");
