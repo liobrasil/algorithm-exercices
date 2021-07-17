@@ -1,3 +1,6 @@
+//rectangle function returns the x and y position of the array c1 in a much bigger array c2
+//rectangle uses findLine function
+
 let c2 = [
   [9, 3, 0, 8, 7, 0],
   [0, 8, 1, 2, 3, 5],
