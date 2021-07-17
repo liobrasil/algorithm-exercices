@@ -1,3 +1,4 @@
+//function that prints factorial without exponent
 const math = require("mathjs");
 const factorielSansExp = (num) => {
   if (num === 1) {
