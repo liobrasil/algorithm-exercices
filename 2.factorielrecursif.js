@@ -1,3 +1,4 @@
+//function that returns factorial of number num with recursive method
 factoriel = (num) => {
   let factor = num;
 
